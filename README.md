@@ -34,7 +34,7 @@ A PyTorch-based project for classifying characters from "The Simpsons" using a R
 
 ```bash
 
-git clone https://github.com/yourusername/SimpsonsClassifier.git
+git clone https://github.com/Kushvinth-Madhavan/SimpsonsClassifier.git
 
 cd SimpsonsClassifier```
 
